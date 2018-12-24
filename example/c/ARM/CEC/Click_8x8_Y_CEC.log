@@ -1,0 +1,18 @@
+0	1	mikroCARM.exe -MSF -DBG -pCEC1302 -UICD -BIN -C -DL -SSA -O11111114 -fo48 -N"D:\Clicks_git\Number\8x8_R_G_B_Y_Click\8x8Y\example\c\ARM\CEC\Click_8x8_Y_CEC.mcpar" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\MCHP M4\" -SP"D:\Clicks_git\Number\8x8_R_G_B_Y_Click\8x8Y\example\c\ARM\CEC\" -SP"D:\Clicks_git\Number\8x8_R_G_B_Y_Click\8x8Y\library\HAL\" -SP"D:\Clicks_git\Number\8x8_R_G_B_Y_Click\8x8Y\library\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\Fusion Board Definition\Uses\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\MCHP M4\" -IP"D:\Clicks_git\Number\8x8_R_G_B_Y_Click\8x8Y\example\c\ARM\CEC\" -IP"D:\Clicks_git\Number\8x8_R_G_B_Y_Click\8x8Y\library\" -IP"D:\Clicks_git\Number\8x8_R_G_B_Y_Click\8x8Y\library\HAL\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\Fusion Board Definition\Uses\" "Click_8x8_Y_CEC.c" "__c8x8y_driver.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_CEC1302.emcl" "__Lib_GPIO_CEC1302.emcl" "__Lib_CString.emcl" "__Lib_Conversions.emcl" "__Lib_SoftSPI.emcl" "__Lib_SPI.emcl" "__Lib_UART.emcl" "fusion_CEC1302.emcl" "Click_8x8_Y.pld"	 
+diagnostics: 0	122	Compilation Started	stdint.h
+diagnostics: 113	123	Compiled Successfully	Click_8x8_Y_CEC.c
+diagnostics: 0	122	Compilation Started	stdint.h
+diagnostics: 358	123	Compiled Successfully	__c8x8y_driver.c
+hint: 323	1164	Variable 'tmp' has been eliminated by optimizer	__c8x8y_driver.c
+hint: 35	1164	Variable 'tmp' has been eliminated by optimizer	__c8x8y_driver.c
+hint: 299	1164	Variable 'wrChr' has been eliminated by optimizer	__c8x8y_driver.c
+hint: 335	1164	Variable 'wrChr' has been eliminated by optimizer	__c8x8y_driver.c
+hint: 349	1164	Variable 'line' has been eliminated by optimizer	__c8x8y_driver.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used RX: 16 (100%)   Free RX: 0 (0%)	Used RX: 16 (100%)   Free RX: 0 (0%)
+hint: 0	1144	Static RAM (bytes): 102   Dynamic RAM (bytes): 32661	Static RAM (bytes): 102   Dynamic RAM (bytes): 32661
+hint: 0	1144	Used ROM (bytes): 7157 (7%)  Free ROM (bytes): 91147 (93%)	Used ROM (bytes): 7157 (7%)  Free ROM (bytes): 91147 (93%)
+diagnostics: 0	125	Project Linked Successfully	Click_8x8_Y_CEC.mcpar
+diagnostics: 0	128	Linked in 141 ms	 
+diagnostics: 0	129	Project 'Click_8x8_Y_CEC.mcpar' completed: 297 ms	 
+diagnostics: 0	103	Finished successfully: 17 jul 2018, 09:25:07	Click_8x8_Y_CEC.mcpar
